@@ -995,7 +995,7 @@ dialog.popup .popup-button-cancel,
 
 /* ===== Performance: CSS Containment ===== */
 #chat .mes {
-    contain: content;
+    contain: layout style;
 }
 
 /* ===== Gallery Multi-Select ===== */
